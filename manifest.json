@@ -1,0 +1,34 @@
+{
+  "name": "जनसेवा — सरकारी सेवाएं एक जगह",
+  "short_name": "जनसेवा",
+  "description": "भारत सरकार की सभी आधिकारिक (.gov.in) वेबसाइटों तक एक जगह पहुँचें — आधार, पैन, राशन कार्ड, ड्राइविंग लाइसेंस, सरकारी योजनाएं और भी बहुत कुछ।",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FBF7EE",
+  "theme_color": "#152A4E",
+  "lang": "hi-IN",
+  "dir": "ltr",
+  "categories": ["government", "utilities", "reference"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
