@@ -1,0 +1,9 @@
+# ads.txt for जनसेवा
+# Google AdSense revenue and verification requires this file at your domain root.
+# Replace pub-0000000000000000 with YOUR actual AdSense Publisher ID
+# (found in AdSense > Account > Account information).
+#
+# Example:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
